@@ -1,0 +1,57 @@
+html{
+    scroll-behavior: smooth;
+}
+.offer-div{
+    height: 400px;
+    /* width: 100vw; */
+    overflow-y: auto;
+    border-radius: 10px;
+    box-shadow: 2px 1px 10px 1px #888888;
+
+}
+.offer-div .card-h{
+    height: 200px;
+    box-shadow: 2px 1px 10px 1px #888888;
+}
+.offer-data{
+    background-color: orange;
+    color: white;
+    padding-right: 60px;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    /* padding: 60px; */
+    border-radius: 20px;
+    box-shadow: 2px 1px 10px 1px #888888;
+}
+
+.hedding{
+    color:gray;
+    text-shadow: 1px 1px  rgb(83, 73, 63) ;
+}
+
+/* 
+----------------
+
+Home Section CSS 
+
+----------------
+*/
+
+.home-hedding{
+    font-size:xx-large;
+    color: white;
+    background-color: rgb(54, 54, 179);
+    font-weight: bolder;
+    padding: 10px;
+    border-bottom: 10px solid yellow;
+}
+.home-info{
+    max-width: 80%;
+   margin-bottom: 40px;
+}
+.home-info h1{
+    font-size:40px;
+    font-weight: bolder;
+}
+
+

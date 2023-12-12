@@ -1,0 +1,58 @@
+/* 
+----------------
+
+Admmin Section CSS 
+
+----------------
+*/
+.main-admin{
+    overflow-x: inherit;
+     margin-bottom: 50px;
+    
+ }
+ .dashboard{
+     width: 200px;
+     height: 500px;
+     background-color: gray;
+     color: white;
+     border-bottom-right-radius: 20px ;
+ }
+ .admin-img{
+     width: 100px;
+     height: 100px;
+ }
+ .dash-list{
+     margin-left: 30px;
+     /* padding-top: 50px; */
+ }
+ .dash-list li{
+     margin: 15px;
+     padding-top: 30px;
+     /* border-bottom: 1px solid black; */
+ }
+ .dash-list li a{
+     color: white;
+     text-decoration: none;
+     font-size: 18px;
+     transition: 0.4s all ease;
+ }
+ .dash-list li a:hover{
+     color: rgb(29, 4, 53);
+ }
+
+
+.admin-login{
+    width: 400px;
+}
+.order-card{
+    color: white;
+    background-image: linear-gradient(to bottom, #1e0484, #4a089f, #710db9, #9911d3, #c212eb);
+}
+.sales-card{
+    color: white;
+    background-image: linear-gradient(to bottom, #ee0ee4, #cb16d0, #a918bb, #8a17a5, #6c148e);
+}
+.revenue-card{
+    color: white;
+    background-image: linear-gradient(to bottom, #0e83ee, #4874e7, #6863dc, #814fcc, #9536b9);
+}

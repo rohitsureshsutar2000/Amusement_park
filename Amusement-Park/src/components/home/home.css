@@ -1,0 +1,50 @@
+.carousel img{
+    height: 400px;
+}
+
+.newCards{
+    display: flex;
+    /* text-align: center; */
+    justify-content: center;
+    align-items: center;
+    padding: 2rem;
+}
+.learnCards{
+    display: flex;
+    /* text-align: center; */
+    justify-content: center;
+    align-items: center;
+    padding: 2rem;
+}
+
+.family h1{
+    color: orangered;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.family p{
+    font-size: 18px;
+}
+
+.family h2{
+    color: rgb(69, 125, 245);
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.thrill h1{
+    color: purple;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.thrill p{
+    font-size: 18px;
+}
+
+.thrill h2{
+    color: rgb(69, 125, 245);
+    font-size: 40px;
+    font-weight: bold;
+}
